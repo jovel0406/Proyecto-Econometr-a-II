@@ -1,4 +1,4 @@
-# Proyecto-Econometr-a-II
+# Relación entre Crecimiento Económico y Presión Ambiental
 Script en R del proyecto de cointegración sobre PIB, CO2 y energía
 #  Proyecto Econometría II – Relación entre Crecimiento Económico y Presión Ambiental
 
